@@ -39,3 +39,16 @@ footer {
   font-family: 'Indie Flower', cursive;
 
 }
+.refresh{
+  margin-top: 2%;
+}
+.refreshbutton{
+  background-color: #4ECCA3;
+  font-size: 2rem;
+  font-family: 'Indie Flower', cursive;
+  font-weight: bold;
+  padding: auto 3% auto 3%;
+}
+.refreshbutton:hover{
+  background-color: aquamarine;
+}

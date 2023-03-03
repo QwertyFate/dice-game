@@ -14,3 +14,9 @@ else if (randomNumber1 < randomNumber2) {
 else {
     document.querySelector("h1").innerText = "DRAW you both lose";
 }
+
+
+document.querySelector("button.refreshbutton").addEventListener("click", function(){
+    location.reload();
+});
+
